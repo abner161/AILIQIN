@@ -1,0 +1,2 @@
+# AILIQIN
+Shadowrocket-rules
